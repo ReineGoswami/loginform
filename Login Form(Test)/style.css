@@ -1,0 +1,21 @@
+body{
+    text-align: justify;
+    text-shadow: 1cm;
+    text-decoration-style: double;
+    text-decoration-style: dotted;
+    text-shadow: black;
+    background-image: url(https://i1.faceprep.in/meta-images/prograd-jr-final.jpg);
+    background-size: cover;
+    font-weight: 800;
+}
+div{
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color:white;
+}
+#name{
+    background-color:orange;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
